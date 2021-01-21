@@ -697,7 +697,7 @@ Prestigiando riceverai un badge speciale e dei nuovi benefici come: un loot migl
 	dailymission_zombiesurvivorkill = "Zombie Sopravvissuti uccisi",
 	dailymission_zombiearmoredkill = "Zombie Corazzati uccisi",
 	dailymission_zombiehazmatkill = "Zombie Hazmat uccisi",
-	dailymission_zoombieboomerkill = "Zombie Esplosivi uccisi",
+	dailymission_zoombieboomerkill = "Zombie Boomer uccisi",
 	dailymission_sellitems = "Oggetti venduti",
 	dailymission_buyitems = "Oggetti comprati",
 	dailymission_lootitems = "Oggetti lootati",
@@ -722,8 +722,8 @@ Prestigiando riceverai un badge speciale e dei nuovi benefici come: un loot migl
 
 	dailymission_completed = "~g~Hai completato la missione giornaliera!\n~b~+%s XP\n~y~+1 Chiave Dungeon",
 
-	character_creation_mix_desc = "Scegli se la forma del tuo viso è influenzata maggiormente da tuo padre/madre.",
-	character_creation_skin_desc = "Scegli se il colore della tua pelle è influenzato maggiormente da tuo padre/madre.",
+	character_creation_mix_desc = "Scegli se la forma del tuo viso è influenzata maggiormente da tuo padre o tua madre.",
+	character_creation_skin_desc = "Scegli se il colore della tua pelle è influenzato maggiormente da tuo padre o tua madre.",
 
 	ff_1 = "Larghezza del naso",
 	ff_2 = "Altezza del naso",
@@ -749,9 +749,9 @@ Prestigiando riceverai un badge speciale e dei nuovi benefici come: un loot migl
 	exit_the_darkzone = "Per uscire dalla DarkZone",
 	you_entered_the_darkzone = "~r~Sei entrato nella DarkZone.",
 	you_left_the_darkzone = "~r~Sei uscito dalla DarkZone.",
-	cannot_enter_darkzone_time = "~r~La DarkZone non è ancora aperta, aspetta.",
-	darkzone_is_full = "~r~La DarkZone è piena, per favore aspetta.",
-	darkzone_exit_allowed = "~r~Le navi sonoa arrivate per uscire dalla DarkZone, corri se vuoi scappare.",
+	cannot_enter_darkzone_time = "~r~La DarkZone non è ancora aperta, attendi.",
+	darkzone_is_full = "~r~La DarkZone è piena, per favore attendi.",
+	darkzone_exit_allowed = "~r~Sono arrivate le navi per andartene dalla DarkZone, corri se vuoi scappare.",
 }
 
 AddLanguage("it", my_language)
